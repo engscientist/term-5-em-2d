@@ -1,0 +1,120 @@
+*** File Version: 14.00
+
+Number of ports: 0
+Portnames:
+Modenumbers:
+Portlabels:
+StaticSources:
+ThermalSources:
+FloquetPortNames:
+FloquetPortModes:
+Terminals:
+TerminalToReferenceTable:
+Number of frequency-points: 0
+Fmin: 8.702000e+008
+Fmax: 9.618000e+008
+Fscale: 1.000000e+006
+
+
+
+
+
+*** newmonitor
+monname: "farfield (f=870.2)"
+nmonfrequencies: 1
+monfrequencies: "870.2" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=916)"
+nmonfrequencies: 1
+monfrequencies: "916" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=961.8)"
+nmonfrequencies: 1
+monfrequencies: "961.8" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=961.8)"
+nmonfrequencies: 1
+monfrequencies: "961.8" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=961.8)"
+nmonfrequencies: 1
+monfrequencies: "961.8" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=916)"
+nmonfrequencies: 1
+monfrequencies: "916" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=916)"
+nmonfrequencies: 1
+monfrequencies: "916" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=870.2)"
+nmonfrequencies: 1
+monfrequencies: "870.2" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=870.2)"
+nmonfrequencies: 1
+monfrequencies: "870.2" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+

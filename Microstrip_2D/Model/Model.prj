@@ -1,0 +1,19 @@
+[Version]
+2
+[Author]
+Li
+[Mesh Cells]
+366,912
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:microstrip_2d.cst?3290751d03178c9a35b6bf4d009574fc?20240:numberofparameters=16:port=1>mode=1>zre=0>zim=0?port=2>mode=1>zre=0>zim=0:::conc?watersigma?watermu?waterepsilon?skinepsilon?intheight?vesselheight?s2?s1?l?w?wf?d?g?h?t
+[Comment]
