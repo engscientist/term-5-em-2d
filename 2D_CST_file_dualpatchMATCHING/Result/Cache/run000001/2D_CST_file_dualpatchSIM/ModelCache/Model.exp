@@ -1,0 +1,31 @@
+@CACHEFILEVERSION 2
+@DOUBLE
+(0.1673#*c*1000#+2.3381#)/10#
+2.57601
+-L
+-79.65
+-wi/2#
+-32.5
+5#*h
+7.75
+L
+79.65
+Wf/2#+5#*h
+8.9
+epsilon
+76.662
+epsilonwater - alpha * c
+76.662
+h
+1.55
+midpoint+di/2#
+25
+midpoint-di/2#
+20
+mu
+0.999991
+sigma
+2.57601
+wi/2#
+32.5
+@LONG

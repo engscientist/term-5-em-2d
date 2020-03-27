@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaGeometryFile creator="MatrixCalc" version="20151207">
+  <Components>
+    <Component name="component1:BLOOD">
+      <Shape name="Components\component1:BLOOD" id="1" visible="1" material="blood">
+        <MeshGroup3D list=""/>
+        <MeshGroup0D list=""/>
+        <MeshGroup1D list=""/>
+        <MeshGroup2D>
+          <Pos list="1 2 3 4 5 6"/>
+          <Neg list=""/>
+          <DS list=""/>
+        </MeshGroup2D>
+      </Shape>
+    </Component>
+    <Component name="component1:GROUND PLANE">
+      <Shape name="Components\component1:GROUND PLANE" id="2" visible="1" material="Copper (annealed)">
+        <MeshGroup3D list=""/>
+        <MeshGroup0D list=""/>
+        <MeshGroup1D list=""/>
+        <MeshGroup2D>
+          <Pos list="7 8 9 10 11 12"/>
+          <Neg list=""/>
+          <DS list=""/>
+        </MeshGroup2D>
+      </Shape>
+    </Component>
+    <Component name="component1:GROUND PLANE_1">
+      <Shape name="Components\component1:GROUND PLANE_1" id="3" visible="1" material="Copper (annealed)">
+        <MeshGroup3D list=""/>
+        <MeshGroup0D list=""/>
+        <MeshGroup1D list=""/>
+        <MeshGroup2D>
+          <Pos list="13 14 15 16 17 18"/>
+          <Neg list=""/>
+          <DS list=""/>
+        </MeshGroup2D>
+      </Shape>
+    </Component>
+    <Component name="component1:MICROSTRIPLINE">
+      <Shape name="Components\component1:MICROSTRIPLINE" id="4" visible="1" material="Copper (annealed)">
+        <MeshGroup3D list=""/>
+        <MeshGroup0D list=""/>
+        <MeshGroup1D list=""/>
+        <MeshGroup2D>
+          <Pos list="19 20 21 22 23 24 25 26 27 28 29 30 31 32"/>
+          <Neg list=""/>
+          <DS list=""/>
+        </MeshGroup2D>
+      </Shape>
+    </Component>
+    <Component name="component1:MICROSTRIPLINE_1">
+      <Shape name="Components\component1:MICROSTRIPLINE_1" id="5" visible="1" material="Copper (annealed)">
+        <MeshGroup3D list=""/>
+        <MeshGroup0D list=""/>
+        <MeshGroup1D list=""/>
+        <MeshGroup2D>
+          <Pos list="33 34 35 36 37 38 39 40 41 42 43 44 45 46"/>
+          <Neg list=""/>
+          <DS list=""/>
+        </MeshGroup2D>
+      </Shape>
+    </Component>
+    <Component name="component1:SUBSTRATE">
+      <Shape name="Components\component1:SUBSTRATE" id="6" visible="1" material="FR4">
+        <MeshGroup3D list=""/>
+        <MeshGroup0D list=""/>
+        <MeshGroup1D list=""/>
+        <MeshGroup2D>
+          <Pos list="47 48 49 50 51 52"/>
+          <Neg list=""/>
+          <DS list=""/>
+        </MeshGroup2D>
+      </Shape>
+    </Component>
+    <Component name="component1:SUBSTRATE_1">
+      <Shape name="Components\component1:SUBSTRATE_1" id="7" visible="1" material="FR4">
+        <MeshGroup3D list=""/>
+        <MeshGroup0D list=""/>
+        <MeshGroup1D list=""/>
+        <MeshGroup2D>
+          <Pos list="53 54 55 56 57 58"/>
+          <Neg list=""/>
+          <DS list=""/>
+        </MeshGroup2D>
+      </Shape>
+    </Component>
+  </Components>
+  <SimulationDomain min="-161.4710845947 -183.3210906982 -128.4250793457" max="161.4710845947 183.3210906982 89.57108306885"/>
+  <Materials>
+    <Material name="air_0" priority="1">
+      <Color value="1 1 1"/>
+      <Transparency value="0"/>
+      <Wireframe value="0"/>
+      <Reflective value="1"/>
+      <Outline value="1"/>
+      <OutlineIfTransparent value="0"/>
+    </Material>
+    <Material name="blood" priority="1">
+      <Color value="1 1 1"/>
+      <Transparency value="0"/>
+      <Wireframe value="0"/>
+      <Reflective value="1"/>
+      <Outline value="1"/>
+      <OutlineIfTransparent value="0"/>
+    </Material>
+    <Material name="Copper (annealed)" priority="1">
+      <Color value="1 1 1"/>
+      <Transparency value="0"/>
+      <Wireframe value="0"/>
+      <Reflective value="1"/>
+      <Outline value="1"/>
+      <OutlineIfTransparent value="0"/>
+    </Material>
+    <Material name="FR4" priority="1">
+      <Color value="1 1 1"/>
+      <Transparency value="0"/>
+      <Wireframe value="0"/>
+      <Reflective value="1"/>
+      <Outline value="1"/>
+      <OutlineIfTransparent value="0"/>
+    </Material>
+  </Materials>
+  <GeometryFile filename="3d.slm" type="slim" subdomain_id=""/>
+  <MeshType type="HEX"/>
+  <HexMesh>
+    <Dimensions nx="95" ny="83" nz="36"/>
+    <MeshPlanesX values="-161.4710856987 -144.6287328614 -127.7863800241 -111.0124996373 -101.8782720603 -92.74404448323 -84.65660034224 -82.98773356149 -81.31886678075 -79.65 -78.01375123785 -76.3775024757 -74.74125371356 -72.69229497369 -70.53316247807 -68.37402998246 -66.21489748684 -64.05576499123 -61.89663249561 -59.7375 -57.57836750439 -55.41923500877 -53.26010251316 -51.10097001754 -48.94183752193 -46.78270502631 -44.73374628644 -43.0974975243 -41.46124876215 -39.825 -38.16800688743 -36.51101377487 -34.8540206623 -32.74300743186 -30.54359014588 -28.34417285989 -26.1447555739 -23.94533828791 -21.74592100192 -19.54650371593 -17.34708642994 -15.14766914395 -12.94825185797 -10.74883457198 -8.549417285989 -6.35 -4.150582714011 -1.951165428022 0.2482518579664 2.447669143955 4.647086429944 6.846503715933 9.045921001922 11.24533828791 13.4447555739 15.64417285989 17.84359014588 20.04300743187 22.1540206623 23.81101377487 25.46800688743 27.125 28.65229165625 30.17958331249 31.70687496874 33.475 35.24312503126 36.77041668751 38.29770834375 39.825 41.47226235786 43.11952471573 44.76678707359 46.85130761988 49.03788711189 51.2244666039 53.41104609591 55.59762558791 57.78420507992 59.97078457193 62.15736406394 64.34394355594 66.53052304795 68.71710253996 70.90368203197 73.09026152398 75.27684101598 77.46342050799 79.65 89.24082453817 98.83164907634 108.4224736145 124.4490897155 142.9600877071 161.4710856987"/>
+    <MeshPlanesY values="-183.3210856987 -166.4787328614 -149.6363800241 -132.8624996373 -123.7282720603 -114.5940444832 -106.5066003422 -104.8377335615 -103.1688667807 -101.5 -99.84406260823 -98.18812521645 -96.53218782468 -89.06747236644 -80.43915745548 -71.81084254452 -63.18252763356 -55.71781217532 -54.06187478355 -52.40593739177 -50.75 -49.13251072148 -47.51502144296 -45.89753216444 -39.88712894753 -32.5 -30.255 -28.01 -25.765 -23.52 -21.275 -19.03 -16.785 -14.54 -12.295 -10.05 -8.074049305858 -6.266236794686 -4.727491196457 -3.188745598229 -1.65 3.330669073875e-016 1.65 3.188745598229 4.727491196457 6.266236794686 8.074049305858 10.05 12.295 14.54 16.785 19.03 21.275 23.52 25.765 28.01 30.255 32.5 39.88712894753 45.89753216444 47.51502144296 49.13251072148 50.75 52.40593739177 54.06187478355 55.71781217532 63.18252763356 71.81084254452 80.43915745548 89.06747236644 96.53218782468 98.18812521645 99.84406260823 101.5 103.1688667807 104.8377335615 106.5066003422 114.5940444832 123.7282720603 132.8624996373 149.6363800241 166.4787328614 183.3210856987"/>
+    <MeshPlanesZ values="-128.4250856987 -111.5238215808 -94.62255746288 -77.87232140171 -68.72124792419 -59.57017444668 -51.59384188106 -49.92456125404 -48.25528062702 -46.586 -45.036 -43.53049029504 -42.02498059009 -40.51947088513 -37.268 -31.134 -25 -23.33333333333 -21.66666666667 -20 -11.57791707249 -4.868152399472 -3.218076199736 -1.568 0 1.55 2.953395850122 4.356791700245 5.760187550367 7.75 17.34160738615 26.93321477229 36.52482215844 52.54309986246 71.05709278057 89.57108569869"/>
+  </HexMesh>
+</MetaGeometryFile>
