@@ -1,0 +1,267 @@
+Defined reference frequency for open boundary condition (916 MHz) is larger
+than the lowest relevant system frequency (monitor at 870.2 MHz).
+Please check open boundary settings to ensure accurate monitor results for the
+lowest frequency of interest.
+
+--------------------------------------------------------------------------------
+Due to unspecified frequency setting the evaluation of the constant tangent
+delta model "FR4" is performed at the center frequency of 916 MHz.
+
+--------------------------------------------------------------------------------
+Build version: 2016.0 Release from 2016-01-22 (change 414946)
+
+Starting adaptive port meshing.
+
+--------------------------------------------------------------------------------
+Mode calculation for port 1:
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Port mode solver: Detected dispersive material(s) at port 1. 
+Using a constant approximation of dispersive material(s) at 916 MHz and
+neglecting loss terms. 
+
+--------------------------------------------------------------------------------
+  -------------------------------- F-Calc 916 --------------------------------
+  Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+  1      1      QTEM        251           5.80e-011     59.9          ---
+  ----------------------------------------------------------------------------
+
+Pass 1 successfully completed. 
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+  -------------------------------- F-Calc 916 --------------------------------
+  Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+  1      1      QTEM        207           0             68.4          ---
+  ----------------------------------------------------------------------------
+
+Pass 2 successfully completed. Delta (Line Imp.): 12.469551%
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+  -------------------------------- F-Calc 916 --------------------------------
+  Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+  1      1      QTEM        252           3.87e-010     61.5          ---
+  ----------------------------------------------------------------------------
+
+Pass 3 successfully completed. Delta (Line Imp.): 11.218924%
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+  -------------------------------- F-Calc 916 --------------------------------
+  Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+  1      1      QTEM        248           3.38e-009     62.4          ---
+  ----------------------------------------------------------------------------
+
+Pass 4 successfully completed. Delta (Line Imp.): 1.459695%
+Mode calculation for port 2:
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Port mode solver: Detected dispersive material(s) at port 2. 
+Using a constant approximation of dispersive material(s) at 916 MHz and
+neglecting loss terms. 
+
+--------------------------------------------------------------------------------
+  -------------------------------- F-Calc 916 --------------------------------
+  Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+  2      1      QTEM        249           1.03e-009     56.3          ---
+  ----------------------------------------------------------------------------
+
+Pass 1 successfully completed. 
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+  -------------------------------- F-Calc 916 --------------------------------
+  Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+  2      1      QTEM        214           0             64.5          ---
+  ----------------------------------------------------------------------------
+
+Pass 2 successfully completed. Delta (Line Imp.): 12.676189%
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+  -------------------------------- F-Calc 916 --------------------------------
+  Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+  2      1      QTEM        247           1.93e-009     58.2          ---
+  ----------------------------------------------------------------------------
+
+Pass 3 successfully completed. Delta (Line Imp.): 10.784089%
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+  -------------------------------- F-Calc 916 --------------------------------
+  Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+  2      1      QTEM        244           5.29e-009     59            ---
+  ----------------------------------------------------------------------------
+
+Pass 4 successfully completed. Delta (Line Imp.): 1.401239%
+Adaptive port meshing finished. 
+
+--------------------------------------------------------------------------------
+
+Solver started at: 10:28 PM Friday, 27. March 2020
+
+  Module:  Time Domain: S-Parameter (Win 64)
+  Version: 2016.0 Release from 2016-01-22 (change 414946)
+
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+======================================================================
+ Solver cycle: 1
+======================================================================
+
+Stimulation at port 1 (mode 1) 
+
+
+--------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  MHz
+  Time:       ns
+
+--------------------------------------------------------------------------------
+Mesh statistics:
+
+   Hexahedral mesh type: FPBA [accuracy enhancement is enabled]
+
+   Parallelization type: domain decomposition
+      Number of parallel working threads: 4
+      Number of calculation domains used: 4
+
+   Used point accuracy enhancement value: 75.00%.
+   PBA fill limit: 97.32% (inverse)
+
+
+--------------------------------------------------------------------------------
+Port mode solver: Detected dispersive material(s) at port 1, 2. 
+Using a constant approximation of dispersive material(s) at 916 MHz and
+neglecting loss terms. 
+
+--------------------------------------------------------------------------------
+Boundary conditions: 
+
+  YZsymmetry: none
+  XZsymmetry: none
+  XYsymmetry: none
+
+  Xmin: expanded open, 4 Layer, depth 67.3694 mm
+  Xmax: expanded open, 4 Layer, depth 74.044 mm
+
+  Ymin: expanded open, 4 Layer, depth 67.3694 mm
+  Ymax: expanded open, 4 Layer, depth 67.3694 mm
+
+  Zmin: expanded open, 4 Layer, depth 67.6051 mm
+  Zmax: expanded open, 4 Layer, depth 74.056 mm
+
+  PML-Type: Convolution PML
+
+--------------------------------------------------------------------------------
+Frequency settings: 
+
+  Fmin:         870.2
+  Fmax:         961.8
+  Nfsteps(lin): 1001
+
+--------------------------------------------------------------------------------
+Waveguide boundaries:
+
+Port: 1
+
+  -------------------------------- F-Calc 916 --------------------------------
+  Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+  1      1      QTEM        252           8.43e-010     62.4          ---
+  ----------------------------------------------------------------------------
+
+Port: 2
+
+  -------------------------------- F-Calc 916 --------------------------------
+  Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+  2      1      QTEM        249           8.64e-010     59            ---
+  ----------------------------------------------------------------------------
+
+Field update statistics:
+
+  Number of components in total: 	1642923
+  Number of lossy metal components:	52934
+  Number of disp. elements:		23752
+
+Subcycling state:      Automatically deactivated
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+*** Warning ***
+
+Solver run aborted by user (discarding results).
+
+--------------------------------------------------------------------------------
+Frequency domain results normalized to default signal.
+
+--------------------------------------------------------------------------------
+
+  ----------------------------------------------------------------------------
+                      Peak memory used (kB)         Free physical memory (kB) 
+                                                    At begin     Minimum      
+  ----------------------------------------------------------------------------
+  Matrices calc.      460752                        10008248     9548240      
+  Solver run total    297644                        10054272     9389680      
+  ----------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Solver Statistics:
+
+  Hardware:
+     Computer name:                 	LAPTOP-514GHKC2 
+
+     Number of CPU threads:             4
+     Hardware info:                  	Hardware acceleration not activated
+
+  Number of mesh cells:             	266910
+  Excitation duration:              	7.76102347e+001 ns 
+  Calculation time for excitation:  	0      	s
+  Number of calculated pulse widths:	0.360167 
+  Steady state accuracy limit:      	-30	dB 
+  Simulated number of time steps:   	9464   
+  Maximum number of time steps:     	525534 
+  Time step width:
+     without subcycles:             	2.95357408e-003 ns
+     used:                          	2.95357408e-003 ns
+
+  Matrix calculation time:          	48     	s
+  Solver setup time:                	6      	s
+  Solver loop time:                 	85     	s
+  Solver post processing time:      	0      	s
+                                    	------------
+  Total solver time:                	139    	s  ( = 0 h, 2 m, 19 s )
+
+--------------------------------------------------------------------------------
+
+  Adaptive port meshing time:       	63     	s  ( = 0 h, 1 m, 3 s )
+  Total solver time (all cycles):   	139    	s  ( = 0 h, 2 m, 19 s )
+                                    	------------
+  Total simulation time:            	202    	s  ( = 0 h, 3 m, 22 s )
+
+--------------------------------------------------------------------------------
+Solver finished at: 10:30 PM Friday, 27. March 2020
+
+
+--------------------------------------------------------------------------------

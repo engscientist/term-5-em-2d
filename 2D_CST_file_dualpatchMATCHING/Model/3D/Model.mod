@@ -664,4 +664,27 @@ End With
 '[VERSION]2016.0|25.0.2|20160122[/VERSION]
 WCS.ActivateWCS "global"
 
+'@ set parametersweep options
+
+'[VERSION]2016.0|25.0.2|20160122[/VERSION]
+With ParameterSweep
+    .SetSimulationType "Transient" 
+End With 
+
+
+'@ add parsweep sequence: Sequence 1
+
+'[VERSION]2016.0|25.0.2|20160122[/VERSION]
+With ParameterSweep
+     .AddSequence "Sequence 1" 
+End With
+
+
+'@ add parsweep parameter: Sequence 1:c
+
+'[VERSION]2016.0|25.0.2|20160122[/VERSION]
+With ParameterSweep
+     .AddParameter_Linear "Sequence 1", "c", "0.135", "0.15", "4" 
+End With
+
 

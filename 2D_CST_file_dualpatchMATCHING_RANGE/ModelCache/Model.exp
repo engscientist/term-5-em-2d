@@ -1,0 +1,17 @@
+@CACHEFILEVERSION 2
+@DOUBLE
+(0.1673#*c*1000#+2.3381#)/10#
+2.49236
+18#/1000#
+0.018
+epsilon
+76.7205
+epsilonwater - alpha * c
+76.7205
+mu
+0.999991
+sigma
+2.49236
+th/2#
+22.5
+@LONG

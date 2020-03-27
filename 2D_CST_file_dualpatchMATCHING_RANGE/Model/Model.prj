@@ -1,0 +1,19 @@
+[Version]
+2
+[Author]
+Li
+[Mesh Cells]
+266,910
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:2d_cst_file_dualpatchmatching_range.cst?9807cd8d0d7a2994057c2ee1511fb05e?14893:numberofparameters=17:port=1>mode=1>zre=0>zim=0?port=2>mode=1>zre=0>zim=0:::l?w?wf?alpha?c?d?di?epsilon?epsilonwater?g?h?midpoint?mu?sigma?t?th?wi
+[Comment]

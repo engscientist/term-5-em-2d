@@ -3,6 +3,7 @@
 [PCB_BODIES: False]
 [PCB_IMPORT: False]
 [DISABLE_FAST_LOAD: False]
+[WCS: 0 0 0 -0 -0 -1 1 0 0]
 [BBOX:-161.47108569868996 161.47108569868996 -183.32108569868996 183.32108569868996 -128.42508569868994 89.571085698689956]
 [BBOX_STRUCTURE:-79.650000000000006 79.650000000000006 -101.5 101.5 -46.603999999999999 7.75]
 [UNITS]
@@ -462,9 +463,9 @@ Solver.FrequencyRange "870.2", "961.8"
      .MaterialUnit "Geometry", "mm"
      .MaterialUnit "Time", "ns"
      .MaterialUnit "Temperature", "Kelvin"
-     .Epsilon "76.6035"
+     .Epsilon "76.545"
      .Mue "0.999991"
-     .Sigma "2.65966"
+     .Sigma "2.74331"
      .TanD "0.0"
      .TanDFreq "0.0"
      .TanDGiven "False"
@@ -537,7 +538,7 @@ Solver.FrequencyRange "870.2", "961.8"
      .SingleEnded "False" 
      .ConsiderForStructureBoundary "False" 
      .ReferenceWCS "10.05", "4.659", "0", "0", "0", "1", "0", "1", "0"
-(TRANSFORM) "0", "1", "0", "0", "0", "1", "1", "0", "0"| "79.65", "-10.05", "-1.568"(ENDTRANSFORM)
+(TRANSFORM) "0", "-1", "0", "0", "0", "-1", "1", "0", "0"| "79.65", "10.05", "1.568"(ENDTRANSFORM)
 [ENDWAVEGUIDE]
 [WAVEGUIDE: 2]
      .Label "" 
@@ -560,5 +561,5 @@ Solver.FrequencyRange "870.2", "961.8"
      .SingleEnded "False" 
      .ConsiderForStructureBoundary "False" 
      .ReferenceWCS "10.05", "4.659", "0", "0", "0", "1", "0", "1", "0"
-(TRANSFORM) "0", "1", "0", "0", "0", "1", "1", "0", "0"| "79.65", "-10.05", "-46.586"(ENDTRANSFORM)
+(TRANSFORM) "0", "-1", "0", "0", "0", "-1", "1", "0", "0"| "79.65", "10.05", "46.586"(ENDTRANSFORM)
 [ENDWAVEGUIDE]
