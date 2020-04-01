@@ -1,0 +1,41 @@
+==========================================================================
+Sequence: Sequence 1
+==========================================================================
+
+--------------------------------------------------------------------------
+Parameter Values: 
+
+   c = 0.135
+
+Structure update: Successful
+          Solver: Successful
+     Solver time: 0 hours, 10 min., 0 sec.
+--------------------------------------------------------------------------
+Parameter Values: 
+
+   c = 0.14
+
+Structure update: Successful
+          Solver: Successful
+     Solver time: 0 hours, 10 min., 44 sec.
+--------------------------------------------------------------------------
+Parameter Values: 
+
+   c = 0.145
+
+Structure update: Successful
+          Solver: Successful
+     Solver time: 0 hours, 10 min., 52 sec.
+--------------------------------------------------------------------------
+Parameter Values: 
+
+   c = 0.15
+
+Structure update: Successful
+          Solver: Successful
+     Solver time: 0 hours, 10 min., 3 sec.
+--------------------------------------------------------------------------
+
+==========================================================================
+Total solver time: 0 hours, 41 min., 39 sec.
+==========================================================================

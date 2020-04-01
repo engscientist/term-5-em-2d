@@ -1,0 +1,70 @@
+==========================================================================
+Sequence: Sequence 1
+==========================================================================
+
+--------------------------------------------------------------------------
+Parameter Values: 
+
+   c = 0.135
+
+Structure update: Successful
+          Solver: Successful
+     Solver time: 0 hours, 2 min., 14 sec.
+--------------------------------------------------------------------------
+Parameter Values: 
+
+   c = 0.14
+
+Structure update: Successful
+          Solver: Successful
+     Solver time: 0 hours, 2 min., 7 sec.
+--------------------------------------------------------------------------
+Parameter Values: 
+
+   c = 0.145
+
+Structure update: Successful
+          Solver: Successful
+     Solver time: 0 hours, 5 min., 15 sec.
+--------------------------------------------------------------------------
+Parameter Values: 
+
+   c = 0.15
+
+Structure update: Successful
+          Solver: Successful
+     Solver time: 0 hours, 2 min., 36 sec.
+--------------------------------------------------------------------------
+
+==========================================================================
+Sequence: Sequence 2
+==========================================================================
+
+--------------------------------------------------------------------------
+Parameter Values: 
+
+   f = 2120
+
+Simulation for this parameter data has already been performed.
+--------------------------------------------------------------------------
+Parameter Values: 
+
+   f = 2235
+
+Structure update: Successful
+          Solver: Successful
+     Solver time: 0 hours, 2 min., 15 sec.
+--------------------------------------------------------------------------
+Parameter Values: 
+
+   f = 2350
+
+Structure update: Successful
+          Solver: Successful
+     Solver time: 0 hours, 2 min., 14 sec.
+--------------------------------------------------------------------------
+1 parameter combinations were skipped because they were defined multiple times in the current sweep.
+
+==========================================================================
+Total solver time: 0 hours, 16 min., 41 sec.
+==========================================================================

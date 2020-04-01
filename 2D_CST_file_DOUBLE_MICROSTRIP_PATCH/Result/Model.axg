@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CSTAuxiliaryGeometry version="20151022">
+  <BoundingBox name="BoundingBox">
+    <BoxBody position="-77.41404724121 -34.32683181763 -52.07656097412" dimension="154.8280944824 110.2396697998 104.1531219482"/>
+  </BoundingBox>
+  <Object name="Ports\port1">
+    <LineSet material="Port^Material" points="-1.567150473595 -0.7929999828339 18.54272842407 1.567150473595 -0.7929999828339 18.54272842407 1.567150473595 0.7929999828339 18.54272842407 -1.567150473595 0.7929999828339 18.54272842407 -1.567150473595 -0.7929999828339 18.54272842407" short="1" stripped="1" text="1"/>
+  </Object>
+  <Object name="Ports\port2">
+    <LineSet material="Port^Material" points="-1.567150473595 40.79299926758 18.54272842407 1.567150473595 40.79299926758 18.54272842407 1.567150473595 42.37900161743 18.54272842407 -1.567150473595 42.37900161743 18.54272842407 -1.567150473595 40.79299926758 18.54272842407" short="2" stripped="1" text="2"/>
+  </Object>
+  <Materials>
+    <Material name="Wire^Material">
+      <Color value="0 0.5019608139992 1"/>
+      <Transparency value="0"/>
+      <LineStrength value="3"/>
+      <Lit value="1"/>
+      <Shininess value="5"/>
+      <DepthTest value="1"/>
+      <ClipMode value="ClipAbove"/>
+    </Material>
+    <Material name="Port^Material">
+      <Color value="1 0 0"/>
+      <Transparency value="0"/>
+      <LineStrength value="3"/>
+      <Lit value="1"/>
+      <Shininess value="5"/>
+      <DepthTest value="1"/>
+      <ClipMode value="ClipAbove"/>
+    </Material>
+    <Material name="current^Material">
+      <Color value="1 0.5019608139992 0.5019608139992"/>
+      <Transparency value="0"/>
+      <LineStrength value="3"/>
+      <Lit value="1"/>
+      <Shininess value="5"/>
+      <DepthTest value="1"/>
+      <ClipMode value="ClipAbove"/>
+    </Material>
+    <Material name="BeamWire^Material">
+      <Color value="0 0.5019608139992 1"/>
+      <Transparency value="0"/>
+      <LineStrength value="5"/>
+      <Lit value="1"/>
+      <Shininess value="5"/>
+      <DepthTest value="1"/>
+      <ClipMode value="ClipAbove"/>
+    </Material>
+    <Material name="BeamInt^Material">
+      <Color value="1 0.5 0"/>
+      <Transparency value="0"/>
+      <LineStrength value="2"/>
+      <Lit value="1"/>
+      <Shininess value="5"/>
+      <DepthTest value="1"/>
+      <ClipMode value="ClipAbove"/>
+    </Material>
+    <Material name="voltage^Material">
+      <Color value="0 0.5019608139992 0.5019608139992"/>
+      <Transparency value="0"/>
+      <LineStrength value="3"/>
+      <Lit value="1"/>
+      <Shininess value="5"/>
+      <DepthTest value="1"/>
+      <ClipMode value="ClipAbove"/>
+    </Material>
+    <Material name="cone^Material">
+      <Color value="1 1 1"/>
+      <Transparency value="0"/>
+      <LineStrength value="1"/>
+      <Lit value="1"/>
+      <Shininess value="5"/>
+      <DepthTest value="1"/>
+      <ClipMode value="ClipAbove"/>
+    </Material>
+    <Material name="Coil^Material">
+      <Color value="1 0.5019608139992 0.5019608139992"/>
+      <Transparency value="0.8000000119209"/>
+      <LineStrength value="1"/>
+      <Lit value="1"/>
+      <Shininess value="5"/>
+      <DepthTest value="1"/>
+      <ClipMode value="ClipAbove"/>
+    </Material>
+    <Material name="MultiPin^Material">
+      <Color value="1 0 0"/>
+      <Transparency value="0"/>
+      <LineStrength value="1"/>
+      <Lit value="1"/>
+      <Shininess value="5"/>
+      <DepthTest value="1"/>
+      <ClipMode value="ClipAbove"/>
+    </Material>
+    <Material name="material^cs_node">
+      <Color value="0.3019607961178 0.3019607961178 0.3019607961178"/>
+      <Transparency value="0"/>
+      <LineStrength value="1"/>
+      <Lit value="1"/>
+      <Shininess value="5"/>
+      <DepthTest value="1"/>
+      <ClipMode value="ClipAbove"/>
+    </Material>
+    <Material name="material^cs_node_splice">
+      <Color value="-1 -1 -1"/>
+      <Transparency value="0"/>
+      <LineStrength value="1"/>
+      <Lit value="1"/>
+      <Shininess value="5"/>
+      <DepthTest value="1"/>
+      <ClipMode value="ClipAbove"/>
+    </Material>
+    <Material name="material^cs_node_grounded">
+      <Color value="-1 -1 -1"/>
+      <Transparency value="0"/>
+      <LineStrength value="1"/>
+      <Lit value="1"/>
+      <Shininess value="5"/>
+      <DepthTest value="1"/>
+      <ClipMode value="ClipAbove"/>
+    </Material>
+    <Material name="material^cs_segment">
+      <Color value="0.6000000238419 0.6000000238419 0.6000000238419"/>
+      <Transparency value="0"/>
+      <LineStrength value="3"/>
+      <Lit value="1"/>
+      <Shininess value="5"/>
+      <DepthTest value="1"/>
+      <ClipMode value="ClipAbove"/>
+    </Material>
+    <Material name="material^cs_segment_loaded">
+      <Color value="-1 -1 -1"/>
+      <Transparency value="0"/>
+      <LineStrength value="3"/>
+      <Lit value="1"/>
+      <Shininess value="5"/>
+      <DepthTest value="1"/>
+      <ClipMode value="ClipAbove"/>
+    </Material>
+    <Material name="PickedLines^Material">
+      <Color value="1 0 0"/>
+      <Transparency value="0"/>
+      <LineStrength value="5"/>
+      <Lit value="1"/>
+      <Shininess value="5"/>
+      <DepthTest value="1"/>
+      <ClipMode value="DefaultClip"/>
+    </Material>
+    <Material name="PickedPoints^Material">
+      <Color value="1 0 0"/>
+      <Transparency value="0"/>
+      <LineStrength value="5"/>
+      <Lit value="1"/>
+      <Shininess value="5"/>
+      <DepthTest value="1"/>
+      <ClipMode value="DefaultClip"/>
+    </Material>
+  </Materials>
+</CSTAuxiliaryGeometry>

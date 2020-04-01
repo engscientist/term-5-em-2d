@@ -1,0 +1,19 @@
+[Version]
+2
+[Author]
+Li
+[Mesh Cells]
+49,140
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:2d_cst_file_microstrip_patch.cst?1f20ba1d03cd3b154320cc64d2afe806?16160:numberofparameters=11:port=1>mode=1>zre=0>zim=0:::factorwf?wf?deltaw?l?deltal?f?w?v0?t?epsilonrelative?h
+[Comment]
