@@ -200,9 +200,7 @@ Port.Delete "1"
 [start]command
 [end]command
 [start]content
-
 Solid.Delete "component1:PATCH ANTENNA_1"
-
 [end]content
 [start]recover_picks
 1
@@ -218,9 +216,7 @@ Solid.Delete "component1:PATCH ANTENNA_1"
 [start]command
 [end]command
 [start]content
-
 Solid.Delete "component1:SUBSTRATE_1"
-
 [end]content
 [start]recover_picks
 1
@@ -236,9 +232,7 @@ Solid.Delete "component1:SUBSTRATE_1"
 [start]command
 [end]command
 [start]content
-
 Solid.Delete "component1:GROUND PLANE_1"
-
 [end]content
 [start]recover_picks
 1
@@ -269,9 +263,7 @@ Solid.Delete "component1:GROUND PLANE_1"
 [start]command
 [end]command
 [start]content
-
 Solid.Delete "component1:BLOOD"
-
 [end]content
 [start]recover_picks
 1
@@ -300,7 +292,6 @@ Solid.Delete "component1:BLOOD"
 53
 [end]block_index
 [start]command
-
 '@ define port: 2
  (undo)
 [end]command
@@ -321,9 +312,7 @@ Port.Delete "2"
 [start]command
 [end]command
 [start]content
-
 Solid.Delete "component1:BLOOD"
-
 [end]content
 [start]recover_picks
 1

@@ -761,8 +761,7 @@ With Transform
      .Destination "" 
      .Material "" 
      .Transform "Shape", "Translate" 
-End With 
-
+End With
 
 '@ transform: translate component1:SUBSTRATE
 
@@ -780,8 +779,7 @@ With Transform
      .Destination "" 
      .Material "" 
      .Transform "Shape", "Translate" 
-End With 
-
+End With
 
 '@ transform: translate component1:GROUND PLANE
 
@@ -799,20 +797,17 @@ With Transform
      .Destination "" 
      .Material "" 
      .Transform "Shape", "Translate" 
-End With 
-
+End With
 
 '@ pick face
 
 '[VERSION]2016.0|25.0.2|20160122[/VERSION]
-Pick.PickFaceFromId "component1:PATCH ANTENNA", "7" 
-
+Pick.PickFaceFromId "component1:PATCH ANTENNA", "7"
 
 '@ align wcs with face
 
 '[VERSION]2016.0|25.0.2|20160122[/VERSION]
 WCS.AlignWCSWithSelected "Face"
-
 
 '@ define material: BLOOD
 
@@ -880,8 +875,7 @@ With Material
      .Transparentoutline "False" 
      .Transparency "0" 
      .Create
-End With 
-
+End With
 
 '@ define brick: component1:BLOOD
 
@@ -897,12 +891,10 @@ With Brick
      .Create
 End With
 
-
 '@ pick face
 
 '[VERSION]2016.0|25.0.2|20160122[/VERSION]
-Pick.PickFaceFromId "component1:PATCH ANTENNA_1", "3" 
-
+Pick.PickFaceFromId "component1:PATCH ANTENNA_1", "3"
 
 '@ define port: 2
 
@@ -929,8 +921,7 @@ With Port
      .ZrangeAdd "0.0", "0.0" 
      .SingleEnded "False" 
      .Create 
-End With 
-
+End With
 
 '@ delete parsweep sequence: Sequence 2
 
@@ -939,12 +930,10 @@ With ParameterSweep
      .DeleteSequence "Sequence 2" 
 End With
 
-
 '@ delete shape: component1:BLOOD
 
 '[VERSION]2016.0|25.0.2|20160122[/VERSION]
-Solid.Delete "component1:BLOOD" 
-
+Solid.Delete "component1:BLOOD"
 
 '@ define brick: component1:BLOOD
 
@@ -959,5 +948,4 @@ With Brick
      .Zrange "th/2-di/2", "th/2+di/2" 
      .Create
 End With
-
 

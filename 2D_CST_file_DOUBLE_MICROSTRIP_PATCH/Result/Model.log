@@ -23,7 +23,7 @@ neglecting loss terms.
 --------------------------------------------------------------------------------
   ----------------------------- F-Calc 2.24e+003 -----------------------------
   Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
-  1      1      TEM         185           4.71e-006     101           0.0
+  1      1      TEM         185           3.23e-006     109           0.0
   ----------------------------------------------------------------------------
 
 Pass 1 successfully completed. 
@@ -33,30 +33,30 @@ Pass 1 successfully completed.
 --------------------------------------------------------------------------------
   ----------------------------- F-Calc 2.24e+003 -----------------------------
   Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
-  1      1      TEM         185           2.73e-006     94.7          0.0
+  1      1      TEM         185           3.38e-006     102           0.0
   ----------------------------------------------------------------------------
 
-Pass 2 successfully completed. Delta (Line Imp.): 6.510394%
+Pass 2 successfully completed. Delta (Line Imp.): 6.504295%
 
 --------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
   ----------------------------- F-Calc 2.24e+003 -----------------------------
   Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
-  1      1      TEM         185           2.69e-006     92            0.0
+  1      1      TEM         185           4.68e-006     99.5          0.0
   ----------------------------------------------------------------------------
 
-Pass 3 successfully completed. Delta (Line Imp.): 2.839194%
+Pass 3 successfully completed. Delta (Line Imp.): 2.837497%
 
 --------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
   ----------------------------- F-Calc 2.24e+003 -----------------------------
   Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
-  1      1      TEM         185           1.92e-006     90.8          0.0
+  1      1      TEM         185           5.18e-006     98.2          0.0
   ----------------------------------------------------------------------------
 
-Pass 4 successfully completed. Delta (Line Imp.): 1.333382%
+Pass 4 successfully completed. Delta (Line Imp.): 1.332888%
 Mode calculation for port 2:
 
 --------------------------------------------------------------------------------
@@ -71,7 +71,7 @@ neglecting loss terms.
 --------------------------------------------------------------------------------
   ----------------------------- F-Calc 2.24e+003 -----------------------------
   Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
-  2      1      TEM         185           4.71e-006     101           0.0
+  2      1      TEM         185           3.23e-006     109           0.0
   ----------------------------------------------------------------------------
 
 Pass 1 successfully completed. 
@@ -81,35 +81,35 @@ Pass 1 successfully completed.
 --------------------------------------------------------------------------------
   ----------------------------- F-Calc 2.24e+003 -----------------------------
   Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
-  2      1      TEM         185           2.73e-006     94.7          0.0
+  2      1      TEM         185           3.38e-006     102           0.0
   ----------------------------------------------------------------------------
 
-Pass 2 successfully completed. Delta (Line Imp.): 6.510394%
+Pass 2 successfully completed. Delta (Line Imp.): 6.504295%
 
 --------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
   ----------------------------- F-Calc 2.24e+003 -----------------------------
   Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
-  2      1      TEM         185           2.69e-006     92            0.0
+  2      1      TEM         185           4.68e-006     99.5          0.0
   ----------------------------------------------------------------------------
 
-Pass 3 successfully completed. Delta (Line Imp.): 2.839194%
+Pass 3 successfully completed. Delta (Line Imp.): 2.837497%
 
 --------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
   ----------------------------- F-Calc 2.24e+003 -----------------------------
   Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
-  2      1      TEM         185           1.92e-006     90.8          0.0
+  2      1      TEM         185           5.18e-006     98.2          0.0
   ----------------------------------------------------------------------------
 
-Pass 4 successfully completed. Delta (Line Imp.): 1.333382%
+Pass 4 successfully completed. Delta (Line Imp.): 1.332888%
 Adaptive port meshing finished. 
 
 --------------------------------------------------------------------------------
 
-Solver started at: 08:24 AM Wednesday, 01. April 2020
+Solver started at: 07:51 PM Wednesday, 01. April 2020
 
   Module:  Time Domain: S-Parameter (Win 64)
   Version: 2016.0 Release from 2016-01-22 (change 414946)
@@ -143,6 +143,15 @@ Mesh statistics:
 
    Used point accuracy enhancement value: 75.00%.
    PBA fill limit: 97.51% (inverse)
+   2020 Apr 01: 17:36:45: current system memory usage reached 50%
+   2020 Apr 01: 17:36:44: current system memory usage reached 50%
+   2020 Apr 01: 18:45:37: current system memory usage reached 50%
+   2020 Apr 01: 18:45:38: current system memory usage reached 50%
+   2020 Apr 01: 19:20:11: current system memory usage reached 50%
+   PBA fill limit: 97.32% (inverse)
+   2020 Apr 01: 19:30:11: current system memory usage reached 50%
+   2020 Apr 01: 19:51:39: current system memory usage reached 50%
+   2020 Apr 01: 19:51:38: current system memory usage reached 50%
 
 
 --------------------------------------------------------------------------------
@@ -157,14 +166,14 @@ Boundary conditions:
   XZsymmetry: none
   XYsymmetry: none
 
-  Xmin: expanded open, 4 Layer, depth 27.0746 mm
-  Xmax: expanded open, 4 Layer, depth 27.0746 mm
+  Xmin: expanded open, 4 Layer, depth 27.7946 mm
+  Xmax: expanded open, 4 Layer, depth 27.7946 mm
 
-  Ymin: expanded open, 4 Layer, depth 27.0746 mm
-  Ymax: expanded open, 4 Layer, depth 27.0746 mm
+  Ymin: expanded open, 4 Layer, depth 27.7946 mm
+  Ymax: expanded open, 4 Layer, depth 27.7946 mm
 
-  Zmin: expanded open, 4 Layer, depth 27.1435 mm
-  Zmax: expanded open, 4 Layer, depth 28.1122 mm
+  Zmin: expanded open, 4 Layer, depth 27.8674 mm
+  Zmax: expanded open, 4 Layer, depth 28.4619 mm
 
   PML-Type: Convolution PML
 
@@ -182,21 +191,21 @@ Port: 1
 
   ----------------------------- F-Calc 2.24e+003 -----------------------------
   Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
-  1      1      TEM         185           3.58e-006     90.8          0.0
+  1      1      TEM         185           5.18e-006     98.2          0.0
   ----------------------------------------------------------------------------
 
 Port: 2
 
   ----------------------------- F-Calc 2.24e+003 -----------------------------
   Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
-  2      1      TEM         185           3.58e-006     90.8          0.0
+  2      1      TEM         185           5.18e-006     98.2          0.0
   ----------------------------------------------------------------------------
 
 Field update statistics:
 
-  Number of components in total: 	1528945
-  Number of lossy metal components:	44532
-  Number of disp. elements:		57528
+  Number of components in total: 	1580187
+  Number of lossy metal components:	42444
+  Number of disp. elements:		56728
 
 Subcycling state:      Automatically deactivated
 
@@ -216,8 +225,8 @@ Frequency domain results normalized to default signal.
                       Peak memory used (kB)         Free physical memory (kB) 
                                                     At begin     Minimum      
   ----------------------------------------------------------------------------
-  Matrices calc.      313262                        10274156     9887716      
-  Solver run total    245916                        10318028     9827160      
+  Matrices calc.      352296                        8957552      8619144      
+  Solver run total    292296                        9004508      8624028      
   ----------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
@@ -229,23 +238,23 @@ Solver Statistics:
      Number of CPU threads:             4
      Hardware info:                  	Hardware acceleration not activated
 
-  Number of mesh cells:             	248460
+  Number of mesh cells:             	256882
   Excitation duration:              	2.84363900e+001 ns 
-  Calculation time for excitation:  	236    	s
-  Number of calculated pulse widths:	1.00743 
+  Calculation time for excitation:  	473    	s
+  Number of calculated pulse widths:	1.00047 
   Steady state accuracy limit:      	-30	dB 
-  Simulated number of time steps:   	28000  
-  Maximum number of time steps:     	555869 
+  Simulated number of time steps:   	28457  
+  Maximum number of time steps:     	568873 
   Time step width:
-     without subcycles:             	1.02313123e-003 ns
-     used:                          	1.02313123e-003 ns
+     without subcycles:             	9.99743504e-004 ns
+     used:                          	9.99743504e-004 ns
 
-  Matrix calculation time:          	48     	s
-  Solver setup time:                	7      	s
-  Solver loop time:                 	237    	s
-  Solver post processing time:      	3      	s
+  Matrix calculation time:          	47     	s
+  Solver setup time:                	8      	s
+  Solver loop time:                 	474    	s
+  Solver post processing time:      	13     	s
                                     	------------
-  Total solver time:                	295    	s  ( = 0 h, 4 m, 55 s )
+  Total solver time:                	542    	s  ( = 0 h, 9 m, 2 s )
 
 --------------------------------------------------------------------------------
 ======================================================================
@@ -269,14 +278,14 @@ Boundary conditions:
   XZsymmetry: none
   XYsymmetry: none
 
-  Xmin: expanded open, 4 Layer, depth 27.0746 mm
-  Xmax: expanded open, 4 Layer, depth 27.0746 mm
+  Xmin: expanded open, 4 Layer, depth 27.7946 mm
+  Xmax: expanded open, 4 Layer, depth 27.7946 mm
 
-  Ymin: expanded open, 4 Layer, depth 27.0746 mm
-  Ymax: expanded open, 4 Layer, depth 27.0746 mm
+  Ymin: expanded open, 4 Layer, depth 27.7946 mm
+  Ymax: expanded open, 4 Layer, depth 27.7946 mm
 
-  Zmin: expanded open, 4 Layer, depth 27.1435 mm
-  Zmax: expanded open, 4 Layer, depth 28.1122 mm
+  Zmin: expanded open, 4 Layer, depth 27.8674 mm
+  Zmax: expanded open, 4 Layer, depth 28.4619 mm
 
   PML-Type: Convolution PML
 
@@ -290,9 +299,9 @@ Frequency settings:
 --------------------------------------------------------------------------------
 Field update statistics:
 
-  Number of components in total: 	1528945
-  Number of lossy metal components:	44532
-  Number of disp. elements:		57528
+  Number of components in total: 	1580187
+  Number of lossy metal components:	42444
+  Number of disp. elements:		56728
 
 Subcycling state:      Automatically deactivated
 
@@ -310,8 +319,8 @@ Frequency domain results normalized to default signal.
                       Peak memory used (kB)         Free physical memory (kB) 
                                                     At begin     Minimum      
   ----------------------------------------------------------------------------
-  Matrices calc.      313262                        10274156     9887716      
-  Solver run total    290128                        10595288     10199872     
+  Matrices calc.      352296                        8957552      8619144      
+  Solver run total    292296                        9004048      8828616      
   ----------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
@@ -323,33 +332,33 @@ Solver Statistics:
      Number of CPU threads:             4
      Hardware info:                  	Hardware acceleration not activated
 
-  Number of mesh cells:             	248460
+  Number of mesh cells:             	256882
   Excitation duration:              	2.84363900e+001 ns 
-  Calculation time for excitation:  	212    	s
-  Number of calculated pulse widths:	1.00743 
+  Calculation time for excitation:  	1128   	s
+  Number of calculated pulse widths:	1.00047 
   Steady state accuracy limit:      	-30	dB 
-  Simulated number of time steps:   	28000  
-  Maximum number of time steps:     	555869 
+  Simulated number of time steps:   	28457  
+  Maximum number of time steps:     	568873 
   Time step width:
-     without subcycles:             	1.02313123e-003 ns
-     used:                          	1.02313123e-003 ns
+     without subcycles:             	9.99743504e-004 ns
+     used:                          	9.99743504e-004 ns
 
-  Reloading matrices:               	1      	s
-  Solver setup time:                	5      	s
-  Solver loop time:                 	214    	s
-  Solver post processing time:      	3      	s
+  Reloading matrices:               	5      	s
+  Solver setup time:                	25     	s
+  Solver loop time:                 	1129   	s
+  Solver post processing time:      	16     	s
                                     	------------
-  Total solver time:                	223    	s  ( = 0 h, 3 m, 43 s )
+  Total solver time:                	1175   	s  ( = 0 h, 19 m, 35 s )
 
 --------------------------------------------------------------------------------
 
-  Adaptive port meshing time:       	71     	s  ( = 0 h, 1 m, 11 s )
-  Total solver time (all cycles):   	519    	s  ( = 0 h, 8 m, 39 s )
+  Adaptive port meshing time:       	68     	s  ( = 0 h, 1 m, 8 s )
+  Total solver time (all cycles):   	1724   	s  ( = 0 h, 28 m, 44 s )
                                     	------------
-  Total simulation time:            	590    	s  ( = 0 h, 9 m, 50 s )
+  Total simulation time:            	1792   	s  ( = 0 h, 29 m, 52 s )
 
 --------------------------------------------------------------------------------
-Solver finished at: 08:33 AM Wednesday, 01. April 2020
+Solver finished at: 08:20 PM Wednesday, 01. April 2020
 
 
 --------------------------------------------------------------------------------

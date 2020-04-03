@@ -546,6 +546,42 @@ result=s:0
 treepath=s:1D Results
 
 type=s:XYSIGNAL2
+subtype=s:user
+problemclass=s:High Frequency:0:0
+visibility=s:visible
+creation=s:internal
+lifetime=s:persistent
+result=s:0
+treepath=s:1D Results\Materials\Rogers RO4350B (lossy)\Dispersive\Eps' (Fit)
+files=s:Rogers RO4350B (lossy)_eps_re.sig
+xlabel=s:Frequency / MHz
+title=s:Electric Dispersion: Nth Order Model, N=2 (Constant Tangent Delta Fit)
+
+type=s:XYSIGNAL2
+subtype=s:user
+problemclass=s:High Frequency:0:0
+visibility=s:visible
+creation=s:internal
+lifetime=s:persistent
+result=s:0
+treepath=s:1D Results\Materials\Rogers RO4350B (lossy)\Dispersive\Eps'' (Fit)
+files=s:Rogers RO4350B (lossy)_eps_im.sig
+xlabel=s:Frequency / MHz
+title=s:Electric Dispersion: Nth Order Model, N=2 (Constant Tangent Delta Fit)
+
+type=s:XYSIGNAL2
+subtype=s:user
+problemclass=s:High Frequency:0:0
+visibility=s:visible
+creation=s:internal
+lifetime=s:persistent
+result=s:0
+treepath=s:1D Results\Materials\Rogers RO4350B (lossy)\Dispersive\Eps TangD (Fit)
+files=s:Rogers RO4350B (lossy)_eps_tgd.sig
+xlabel=s:Frequency / MHz
+title=s:Electric Dispersion: Nth Order Model, N=2 (Constant Tangent Delta Fit)
+
+type=s:XYSIGNAL2
 subtype=s:complex
 problemclass=s::8:1000
 visibility=s:hidden
@@ -1278,78 +1314,6 @@ result=s:1
 parametric=s:P
 treepath=s:1D Results\AutomaticRunInformation
 files=s:AutomaticRunInformation
-
-type=s:XYSIGNAL2
-subtype=s:user
-problemclass=s:High Frequency:0:0
-visibility=s:visible
-creation=s:internal
-lifetime=s:persistent
-result=s:0
-treepath=s:1D Results\Materials\Rogers RO4350B (lossy)\Dispersive\Eps' (Fit)
-files=s:Rogers RO4350B (lossy)_eps_re.sig
-xlabel=s:Frequency / MHz
-title=s:Electric Dispersion: Nth Order Model, N=2 (Constant Tangent Delta Fit)
-
-type=s:XYSIGNAL2
-subtype=s:user
-problemclass=s:High Frequency:0:0
-visibility=s:visible
-creation=s:internal
-lifetime=s:persistent
-result=s:0
-treepath=s:1D Results\Materials\Rogers RO4350B (lossy)\Dispersive\Eps'' (Fit)
-files=s:Rogers RO4350B (lossy)_eps_im.sig
-xlabel=s:Frequency / MHz
-title=s:Electric Dispersion: Nth Order Model, N=2 (Constant Tangent Delta Fit)
-
-type=s:XYSIGNAL2
-subtype=s:user
-problemclass=s:High Frequency:0:0
-visibility=s:visible
-creation=s:internal
-lifetime=s:persistent
-result=s:0
-treepath=s:1D Results\Materials\Rogers RO4350B (lossy)\Dispersive\Eps TangD (Fit)
-files=s:Rogers RO4350B (lossy)_eps_tgd.sig
-xlabel=s:Frequency / MHz
-title=s:Electric Dispersion: Nth Order Model, N=2 (Constant Tangent Delta Fit)
-
-type=s:XYSIGNAL2
-subtype=s:user
-problemclass=s:High Frequency:0:0
-visibility=s:visible
-creation=s:internal
-lifetime=s:persistent
-result=s:0
-treepath=s:1D Results\Materials\FR4\Dispersive\Eps' (Fit)
-files=s:FR4_eps_re.sig
-xlabel=s:Frequency / MHz
-title=s:Electric Dispersion: Nth Order Model, N=3 (Constant Tangent Delta Fit)
-
-type=s:XYSIGNAL2
-subtype=s:user
-problemclass=s:High Frequency:0:0
-visibility=s:visible
-creation=s:internal
-lifetime=s:persistent
-result=s:0
-treepath=s:1D Results\Materials\FR4\Dispersive\Eps'' (Fit)
-files=s:FR4_eps_im.sig
-xlabel=s:Frequency / MHz
-title=s:Electric Dispersion: Nth Order Model, N=3 (Constant Tangent Delta Fit)
-
-type=s:XYSIGNAL2
-subtype=s:user
-problemclass=s:High Frequency:0:0
-visibility=s:visible
-creation=s:internal
-lifetime=s:persistent
-result=s:0
-treepath=s:1D Results\Materials\FR4\Dispersive\Eps TangD (Fit)
-files=s:FR4_eps_tgd.sig
-xlabel=s:Frequency / MHz
-title=s:Electric Dispersion: Nth Order Model, N=3 (Constant Tangent Delta Fit)
 
 type=s:XYSIGNAL2
 subtype=s:user
@@ -2343,4 +2307,40 @@ lifetime=s:rebuild
 result=s:1
 treepath=s:1D Results\AutomaticRunInformation
 files=s:AutomaticRunInformation
+
+type=s:XYSIGNAL2
+subtype=s:user
+problemclass=s:High Frequency:0:0
+visibility=s:visible
+creation=s:internal
+lifetime=s:persistent
+result=s:0
+treepath=s:1D Results\Materials\FR4\Dispersive\Eps' (Fit)
+files=s:FR4_eps_re.sig
+xlabel=s:Frequency / MHz
+title=s:Electric Dispersion: Nth Order Model, N=3 (Constant Tangent Delta Fit)
+
+type=s:XYSIGNAL2
+subtype=s:user
+problemclass=s:High Frequency:0:0
+visibility=s:visible
+creation=s:internal
+lifetime=s:persistent
+result=s:0
+treepath=s:1D Results\Materials\FR4\Dispersive\Eps'' (Fit)
+files=s:FR4_eps_im.sig
+xlabel=s:Frequency / MHz
+title=s:Electric Dispersion: Nth Order Model, N=3 (Constant Tangent Delta Fit)
+
+type=s:XYSIGNAL2
+subtype=s:user
+problemclass=s:High Frequency:0:0
+visibility=s:visible
+creation=s:internal
+lifetime=s:persistent
+result=s:0
+treepath=s:1D Results\Materials\FR4\Dispersive\Eps TangD (Fit)
+files=s:FR4_eps_tgd.sig
+xlabel=s:Frequency / MHz
+title=s:Electric Dispersion: Nth Order Model, N=3 (Constant Tangent Delta Fit)
 

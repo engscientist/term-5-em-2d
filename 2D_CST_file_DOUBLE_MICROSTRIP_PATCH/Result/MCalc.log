@@ -1,5 +1,5 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
-2020 Apr 01 (Wed): 08:23:36
+2020 Apr 01 (Wed): 19:50:21
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 ==================================================================
@@ -15,7 +15,7 @@
 ========================================
 Processing CAD model (for field results)
 Version 2016.0 (build 20160122)
-2020 Apr 01 (Wed): 08:23:37
+2020 Apr 01 (Wed): 19:50:22
 ========================================
 
 ==================================================================================================
@@ -39,11 +39,11 @@ Finished CAD processing (for field results)
 ===========================================
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
-2020 Apr 01 (Wed): 08:23:40
+2020 Apr 01 (Wed): 19:50:25
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
-2020 Apr 01 (Wed): 08:23:42
+2020 Apr 01 (Wed): 19:50:26
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 ==================================================================
@@ -59,7 +59,7 @@ Finished CAD processing (for field results)
 ===============================
 Port preparation
 Version 2016.0 (build 20160122)
-2020 Apr 01 (Wed): 08:23:43
+2020 Apr 01 (Wed): 19:50:26
 ===============================
 
 ==========================
@@ -67,11 +67,11 @@ Finished port preparation.
 ==========================
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
-2020 Apr 01 (Wed): 08:23:43
+2020 Apr 01 (Wed): 19:50:26
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
-2020 Apr 01 (Wed): 08:23:44
+2020 Apr 01 (Wed): 19:50:27
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 ==============================
@@ -79,7 +79,7 @@ Mesher selection: manual: FPBA
 ==============================
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
-2020 Apr 01 (Wed): 08:23:44
+2020 Apr 01 (Wed): 19:50:28
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 ==================================================================
@@ -96,7 +96,7 @@ Mesher selection: manual: FPBA
 Matrix computation (FPBA)
 	[FPBA accuracy enhancement is enabled]
 Version 2016.0 (build 20160122)
-2020 Apr 01 (Wed): 08:23:44
+2020 Apr 01 (Wed): 19:50:28
 ==========================================
 
 ----------------------------------------------
@@ -130,11 +130,11 @@ Finished matrix computation (FPBA)
 ==================================
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
-2020 Apr 01 (Wed): 08:23:45
+2020 Apr 01 (Wed): 19:50:28
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
-2020 Apr 01 (Wed): 08:23:46
+2020 Apr 01 (Wed): 19:50:29
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 --------------------------------
@@ -146,7 +146,7 @@ Finished matrix computation (FPBA)
 --------------------------------
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
-2020 Apr 01 (Wed): 08:23:51
+2020 Apr 01 (Wed): 19:50:34
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 ==============================
@@ -154,7 +154,7 @@ Mesher selection: manual: FPBA
 ==============================
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
-2020 Apr 01 (Wed): 08:23:51
+2020 Apr 01 (Wed): 19:50:34
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 ==================================================================
@@ -171,7 +171,7 @@ Mesher selection: manual: FPBA
 Matrix computation (FPBA)
 	[FPBA accuracy enhancement is enabled]
 Version 2016.0 (build 20160122)
-2020 Apr 01 (Wed): 08:23:51
+2020 Apr 01 (Wed): 19:50:35
 ==========================================
 
 ----------------------------------------------
@@ -205,11 +205,11 @@ Finished matrix computation (FPBA)
 ==================================
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
-2020 Apr 01 (Wed): 08:23:53
+2020 Apr 01 (Wed): 19:50:36
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
-2020 Apr 01 (Wed): 08:23:54
+2020 Apr 01 (Wed): 19:50:36
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 --------------------------------
@@ -221,7 +221,7 @@ Finished matrix computation (FPBA)
 --------------------------------
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
-2020 Apr 01 (Wed): 08:23:59
+2020 Apr 01 (Wed): 19:50:41
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 ==============================
@@ -229,7 +229,7 @@ Mesher selection: manual: FPBA
 ==============================
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
-2020 Apr 01 (Wed): 08:23:59
+2020 Apr 01 (Wed): 19:50:41
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 ==================================================================
@@ -246,7 +246,7 @@ Mesher selection: manual: FPBA
 Matrix computation (FPBA)
 	[FPBA accuracy enhancement is enabled]
 Version 2016.0 (build 20160122)
-2020 Apr 01 (Wed): 08:23:59
+2020 Apr 01 (Wed): 19:50:41
 ==========================================
 
 ----------------------------------------------
@@ -280,11 +280,11 @@ Finished matrix computation (FPBA)
 ==================================
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
-2020 Apr 01 (Wed): 08:24:01
+2020 Apr 01 (Wed): 19:50:43
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
-2020 Apr 01 (Wed): 08:24:01
+2020 Apr 01 (Wed): 19:50:44
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 --------------------------------
@@ -296,7 +296,7 @@ Finished matrix computation (FPBA)
 --------------------------------
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
-2020 Apr 01 (Wed): 08:24:07
+2020 Apr 01 (Wed): 19:50:52
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 ==============================
@@ -304,7 +304,7 @@ Mesher selection: manual: FPBA
 ==============================
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
-2020 Apr 01 (Wed): 08:24:07
+2020 Apr 01 (Wed): 19:50:52
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 ==================================================================
@@ -321,7 +321,7 @@ Mesher selection: manual: FPBA
 Matrix computation (FPBA)
 	[FPBA accuracy enhancement is enabled]
 Version 2016.0 (build 20160122)
-2020 Apr 01 (Wed): 08:24:07
+2020 Apr 01 (Wed): 19:50:52
 ==========================================
 
 ----------------------------------------------
@@ -355,11 +355,11 @@ Finished matrix computation (FPBA)
 ==================================
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
-2020 Apr 01 (Wed): 08:24:11
+2020 Apr 01 (Wed): 19:50:55
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
-2020 Apr 01 (Wed): 08:24:11
+2020 Apr 01 (Wed): 19:50:55
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 --------------------------------
@@ -371,7 +371,7 @@ Finished matrix computation (FPBA)
 --------------------------------
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
-2020 Apr 01 (Wed): 08:24:17
+2020 Apr 01 (Wed): 19:51:01
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 ==============================
@@ -379,7 +379,7 @@ Mesher selection: manual: FPBA
 ==============================
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
-2020 Apr 01 (Wed): 08:24:17
+2020 Apr 01 (Wed): 19:51:01
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 ==================================================================
@@ -396,7 +396,7 @@ Mesher selection: manual: FPBA
 Matrix computation (FPBA)
 	[FPBA accuracy enhancement is enabled]
 Version 2016.0 (build 20160122)
-2020 Apr 01 (Wed): 08:24:17
+2020 Apr 01 (Wed): 19:51:01
 ==========================================
 
 ----------------------------------------------
@@ -430,11 +430,11 @@ Finished matrix computation (FPBA)
 ==================================
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
-2020 Apr 01 (Wed): 08:24:18
+2020 Apr 01 (Wed): 19:51:02
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
-2020 Apr 01 (Wed): 08:24:18
+2020 Apr 01 (Wed): 19:51:02
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 --------------------------------
@@ -446,7 +446,7 @@ Finished matrix computation (FPBA)
 --------------------------------
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
-2020 Apr 01 (Wed): 08:24:23
+2020 Apr 01 (Wed): 19:51:08
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 ==============================
@@ -454,7 +454,7 @@ Mesher selection: manual: FPBA
 ==============================
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
-2020 Apr 01 (Wed): 08:24:24
+2020 Apr 01 (Wed): 19:51:09
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 ==================================================================
@@ -471,7 +471,7 @@ Mesher selection: manual: FPBA
 Matrix computation (FPBA)
 	[FPBA accuracy enhancement is enabled]
 Version 2016.0 (build 20160122)
-2020 Apr 01 (Wed): 08:24:24
+2020 Apr 01 (Wed): 19:51:09
 ==========================================
 
 ----------------------------------------------
@@ -505,11 +505,11 @@ Finished matrix computation (FPBA)
 ==================================
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
-2020 Apr 01 (Wed): 08:24:25
+2020 Apr 01 (Wed): 19:51:10
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
-2020 Apr 01 (Wed): 08:24:26
+2020 Apr 01 (Wed): 19:51:10
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 --------------------------------
@@ -521,7 +521,7 @@ Finished matrix computation (FPBA)
 --------------------------------
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
-2020 Apr 01 (Wed): 08:24:31
+2020 Apr 01 (Wed): 19:51:14
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 ==============================
@@ -529,7 +529,7 @@ Mesher selection: manual: FPBA
 ==============================
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
-2020 Apr 01 (Wed): 08:24:31
+2020 Apr 01 (Wed): 19:51:15
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 ==================================================================
@@ -546,7 +546,7 @@ Mesher selection: manual: FPBA
 Matrix computation (FPBA)
 	[FPBA accuracy enhancement is enabled]
 Version 2016.0 (build 20160122)
-2020 Apr 01 (Wed): 08:24:31
+2020 Apr 01 (Wed): 19:51:15
 ==========================================
 
 ----------------------------------------------
@@ -580,11 +580,11 @@ Finished matrix computation (FPBA)
 ==================================
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
-2020 Apr 01 (Wed): 08:24:34
+2020 Apr 01 (Wed): 19:51:16
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
-2020 Apr 01 (Wed): 08:24:34
+2020 Apr 01 (Wed): 19:51:17
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 --------------------------------
@@ -596,7 +596,7 @@ Finished matrix computation (FPBA)
 --------------------------------
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
-2020 Apr 01 (Wed): 08:24:39
+2020 Apr 01 (Wed): 19:51:22
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 ==============================
@@ -604,7 +604,7 @@ Mesher selection: manual: FPBA
 ==============================
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
-2020 Apr 01 (Wed): 08:24:39
+2020 Apr 01 (Wed): 19:51:22
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 ==================================================================
@@ -621,7 +621,7 @@ Mesher selection: manual: FPBA
 Matrix computation (FPBA)
 	[FPBA accuracy enhancement is enabled]
 Version 2016.0 (build 20160122)
-2020 Apr 01 (Wed): 08:24:39
+2020 Apr 01 (Wed): 19:51:22
 ==========================================
 
 ----------------------------------------------
@@ -655,11 +655,11 @@ Finished matrix computation (FPBA)
 ==================================
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
-2020 Apr 01 (Wed): 08:24:42
+2020 Apr 01 (Wed): 19:51:25
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
-2020 Apr 01 (Wed): 08:24:43
+2020 Apr 01 (Wed): 19:51:25
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 --------------------------------
@@ -671,7 +671,7 @@ Finished matrix computation (FPBA)
 --------------------------------
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
-2020 Apr 01 (Wed): 08:24:49
+2020 Apr 01 (Wed): 19:51:30
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 ======================
@@ -691,7 +691,7 @@ Mesher selection: FPBA
 ===============================
 Processing CAD model
 Version 2016.0 (build 20160122)
-2020 Apr 01 (Wed): 08:24:50
+2020 Apr 01 (Wed): 19:51:31
 ===============================
 
 ---------------------------------------------
@@ -701,21 +701,21 @@ Used point accuracy enhancement value: 0.00%.
 =============================================================================
 Mesh statistics:
 -----------------------------------------------------------------------------
-Minimum edge length (x): 0.627 @ mesh line 50 (x)
-Maximum edge length (x): 6.77 @ mesh line 100 (x)
-Minimum face area (x): 0.177 @ mesh lines 29 | 10 (y | z)
-Maximum face area (x): 47.6 @ mesh lines 40 | 59 (y | z)
-Minimum edge length (y): 0.529 @ mesh line 29 (y)
-Maximum edge length (y): 6.77 @ mesh line 40 (y)
-Minimum face area (y): 0.21 @ mesh lines 10 | 50 (z | x)
-Maximum face area (y): 47.6 @ mesh lines 59 | 100 (z | x)
-Minimum edge length (z): 0.335 @ mesh line 10 (z)
-Maximum edge length (z): 7.03 @ mesh line 59 (z)
-Minimum face area (z): 0.331 @ mesh lines 50 | 29 (x | y)
-Maximum face area (z): 45.8 @ mesh lines 100 | 40 (x | y)
-Maximum mesh face aspect ratio (x): 20.2 : 1.0  @ mesh lines 40 | 10 (y | z)
-Maximum mesh face aspect ratio (y): 20.2 : 1.0  @ mesh lines 10 | 100 (z | x)
-Maximum mesh face aspect ratio (z): 12.8 : 1.0  @ mesh lines 100 | 29 (x | y)
+Minimum edge length (x): 0.58 @ mesh line 53 (x)
+Maximum edge length (x): 6.95 @ mesh line 1 (x)
+Minimum face area (x): 0.177 @ mesh lines 32 | 10 (y | z)
+Maximum face area (x): 49.4 @ mesh lines 0 | 57 (y | z)
+Minimum edge length (y): 0.529 @ mesh line 32 (y)
+Maximum edge length (y): 6.95 @ mesh line 0 (y)
+Minimum face area (y): 0.194 @ mesh lines 10 | 53 (z | x)
+Maximum face area (y): 49.4 @ mesh lines 57 | 1 (z | x)
+Minimum edge length (z): 0.334 @ mesh line 10 (z)
+Maximum edge length (z): 7.12 @ mesh line 57 (z)
+Minimum face area (z): 0.306 @ mesh lines 53 | 32 (x | y)
+Maximum face area (z): 48.3 @ mesh lines 1 | 0 (x | y)
+Maximum mesh face aspect ratio (x): 20.8 : 1.0  @ mesh lines 0 | 10 (y | z)
+Maximum mesh face aspect ratio (y): 20.8 : 1.0  @ mesh lines 10 | 1 (z | x)
+Maximum mesh face aspect ratio (z): 13.1 : 1.0  @ mesh lines 1 | 32 (x | y)
 =============================================================================
 
 =======================
@@ -727,14 +727,14 @@ Parallelization Info
 ------------------------------------------------------------
 Number of concurrent threads: 4
 Number of node domains: 4
-Number of mesh cells: 248460
+Number of mesh cells: 256882
 ------------------------------------------------------------
 Node order
 3, 2, 1, 0
 ------------------------------------------------------------
 
 1xN000:  <<<<<<<<<<<<<<<<<<<<<<<<<<<
-         2020 Apr 01 (Wed): 08:24:53
+         2020 Apr 01 (Wed): 19:51:34
          <<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 1xN000:  ==================================================================
@@ -751,7 +751,7 @@ Node order
          Matrix computation (FPBA)
          	[FPBA accuracy enhancement is enabled]
          Version 2016.0 (build 20160122)
-         2020 Apr 01 (Wed): 08:24:53
+         2020 Apr 01 (Wed): 19:51:34
          ==========================================
 
 1xN000:  ssssssssssssssssssssssssssssssssssssssssss
@@ -760,12 +760,12 @@ Node order
 
 1xN000:  ------------------------------------------------------------------------------
          PBA fill limit is applied in inverse mode.
-         PBA fill limit is applied on faces filled with at least 97.51% metal material.
+         PBA fill limit is applied on faces filled with at least 97.32% metal material.
          --------------------------------------------------------------
          detailed accuracy settings:
          --------------------------------------------------------------
          augmented fill limit:       true
-         augmented fill limit value: 97.51
+         augmented fill limit value: 97.32
          automatic fill limit:       true
          early fill limit:           true
          inverse fill limit:         true
@@ -782,13 +782,13 @@ Node order
          ==================================
 
 1xN000:  >>>>>>>>>>>>>>>>>>>>>>>>>>>
-         2020 Apr 01 (Wed): 08:25:09
+         2020 Apr 01 (Wed): 19:51:50
          >>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
 
 1xN001:  <<<<<<<<<<<<<<<<<<<<<<<<<<<
-         2020 Apr 01 (Wed): 08:24:53
+         2020 Apr 01 (Wed): 19:51:34
          <<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 1xN001:  ==================================================================
@@ -805,7 +805,7 @@ Node order
          Matrix computation (FPBA)
          	[FPBA accuracy enhancement is enabled]
          Version 2016.0 (build 20160122)
-         2020 Apr 01 (Wed): 08:24:53
+         2020 Apr 01 (Wed): 19:51:34
          ==========================================
 
 1xN001:  ssssssssssssssssssssssssssssssssssssssssss
@@ -814,12 +814,12 @@ Node order
 
 1xN001:  ------------------------------------------------------------------------------
          PBA fill limit is applied in inverse mode.
-         PBA fill limit is applied on faces filled with at least 97.51% metal material.
+         PBA fill limit is applied on faces filled with at least 97.32% metal material.
          --------------------------------------------------------------
          detailed accuracy settings:
          --------------------------------------------------------------
          augmented fill limit:       true
-         augmented fill limit value: 97.51
+         augmented fill limit value: 97.32
          automatic fill limit:       true
          early fill limit:           true
          inverse fill limit:         true
@@ -836,13 +836,13 @@ Node order
          ==================================
 
 1xN001:  >>>>>>>>>>>>>>>>>>>>>>>>>>>
-         2020 Apr 01 (Wed): 08:25:11
+         2020 Apr 01 (Wed): 19:51:51
          >>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
 
 1xN002:  <<<<<<<<<<<<<<<<<<<<<<<<<<<
-         2020 Apr 01 (Wed): 08:24:53
+         2020 Apr 01 (Wed): 19:51:34
          <<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 1xN002:  ==================================================================
@@ -859,7 +859,7 @@ Node order
          Matrix computation (FPBA)
          	[FPBA accuracy enhancement is enabled]
          Version 2016.0 (build 20160122)
-         2020 Apr 01 (Wed): 08:24:53
+         2020 Apr 01 (Wed): 19:51:34
          ==========================================
 
 1xN002:  ssssssssssssssssssssssssssssssssssssssssss
@@ -868,12 +868,12 @@ Node order
 
 1xN002:  ------------------------------------------------------------------------------
          PBA fill limit is applied in inverse mode.
-         PBA fill limit is applied on faces filled with at least 97.51% metal material.
+         PBA fill limit is applied on faces filled with at least 97.32% metal material.
          --------------------------------------------------------------
          detailed accuracy settings:
          --------------------------------------------------------------
          augmented fill limit:       true
-         augmented fill limit value: 97.51
+         augmented fill limit value: 97.32
          automatic fill limit:       true
          early fill limit:           true
          inverse fill limit:         true
@@ -890,13 +890,13 @@ Node order
          ==================================
 
 1xN002:  >>>>>>>>>>>>>>>>>>>>>>>>>>>
-         2020 Apr 01 (Wed): 08:25:15
+         2020 Apr 01 (Wed): 19:51:58
          >>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
 
 1xN003:  <<<<<<<<<<<<<<<<<<<<<<<<<<<
-         2020 Apr 01 (Wed): 08:24:53
+         2020 Apr 01 (Wed): 19:51:33
          <<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 1xN003:  ==================================================================
@@ -913,7 +913,7 @@ Node order
          Matrix computation (FPBA)
          	[FPBA accuracy enhancement is enabled]
          Version 2016.0 (build 20160122)
-         2020 Apr 01 (Wed): 08:24:53
+         2020 Apr 01 (Wed): 19:51:33
          ==========================================
 
 1xN003:  ssssssssssssssssssssssssssssssssssssssssss
@@ -922,12 +922,12 @@ Node order
 
 1xN003:  ------------------------------------------------------------------------------
          PBA fill limit is applied in inverse mode.
-         PBA fill limit is applied on faces filled with at least 97.51% metal material.
+         PBA fill limit is applied on faces filled with at least 97.32% metal material.
          --------------------------------------------------------------
          detailed accuracy settings:
          --------------------------------------------------------------
          augmented fill limit:       true
-         augmented fill limit value: 97.51
+         augmented fill limit value: 97.32
          automatic fill limit:       true
          early fill limit:           true
          inverse fill limit:         true
@@ -944,13 +944,13 @@ Node order
          ==================================
 
 1xN003:  >>>>>>>>>>>>>>>>>>>>>>>>>>>
-         2020 Apr 01 (Wed): 08:25:19
+         2020 Apr 01 (Wed): 19:52:01
          >>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
-2020 Apr 01 (Wed): 08:25:34
+2020 Apr 01 (Wed): 19:52:13
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 --------------------------------
