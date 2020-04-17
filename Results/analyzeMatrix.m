@@ -1,4 +1,4 @@
-function [resFreq,resGain,resGainDev,resFreqDev] = analyzeMatrix(matrixInp,x)
+function [resGainDev,resFreqDev,diffMeans,diffVar,trendFollow] = analyzeMatrix(matrixInp,x)
 resGain = zeros(1,4);
 c135 = matrixInp(:,1);
 c140 = matrixInp(:,2);
@@ -11,5 +11,8 @@ c150 = matrixInp(:,4);
 resFreq = [x(c135Index),x(c140Index),x(c145Index),x(c150Index)];
 resGainDev = sqrt(var(resGain)) * correctValFunc(resGain);
 resFreqDev = sqrt(var(resFreq)) * correctValFunc(resFreq);
+diffMeans = [mean(c135-c140),mean(c140-c145),mean(c145-c150)];
+diffVar = [var(c135-c140),var(c140-c145),var(c145-c150)];
+trendFollow = trendFollowFunc(c135,c140,c145,c150);
 end
 
