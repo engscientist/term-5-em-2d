@@ -3,9 +3,9 @@
 [PCB_BODIES: False]
 [PCB_IMPORT: False]
 [DISABLE_FAST_LOAD: False]
-[WCS: 0 0.793 0.026277096378371 0 1 0 1 0 0]
-[BBOX:-74.112262063856463 74.112262063856463 -34.326831991051456 75.912831991051462 -50.768416061747459 50.768416061747459]
-[BBOX_STRUCTURE:-40.578430072804998 40.578430072804998 -0.79300000000000004 42.379000000000005 -17.234584070695998 17.234584070695998]
+[WCS: 0 0.793 0.0262690824985 0 1 0 1 0 0]
+[BBOX:-75.972723844111457 75.972723844111457 -34.326831991051456 75.912831991051462 -51.505659609207456 51.505659609207456]
+[BBOX_STRUCTURE:-42.438891853059999 42.438891853059999 -0.79300000000000004 42.379000000000005 -17.971827618155999 17.971827618155999]
 [UNITS]
      .Geometry "mm" 
      .Frequency "MHz" 
@@ -529,7 +529,7 @@ Solver.FrequencyRange "2110", "2360"
      .Orientation "zmax" 
      .PortOnBound "False" 
      .ClipPickedPortToBound "False" 
-     .Xrange "0", "2.8984592909146" 
+     .Xrange "0", "3.0313494180758" 
      .Yrange "0", "1.586" 
      .Zrange "0", "0" 
      .XrangeAdd "0.0", "0.0" 
@@ -537,8 +537,8 @@ Solver.FrequencyRange "2110", "2360"
      .ZrangeAdd "0.0", "0.0" 
      .SingleEnded "False" 
      .ConsiderForStructureBoundary "False" 
-     .ReferenceWCS "1.44922964546", "0.793", "0", "0", "0", "1", "0", "1", "0"
-(TRANSFORM) "1", "0", "0", "0", "0", "1", "0", "-1", "0"| "-1.4492296454573", "-17.208306974318", "-1.586"(ENDTRANSFORM)
+     .ReferenceWCS "1.51567470904", "0.793", "0", "0", "0", "1", "0", "1", "0"
+(TRANSFORM) "1", "0", "0", "0", "0", "1", "0", "-1", "0"| "-1.5156747090379", "-17.945558535658", "-1.586"(ENDTRANSFORM)
 [ENDWAVEGUIDE]
 [WAVEGUIDE: 2]
      .Label "" 
@@ -552,7 +552,7 @@ Solver.FrequencyRange "2110", "2360"
      .Orientation "zmax" 
      .PortOnBound "False" 
      .ClipPickedPortToBound "False" 
-     .Xrange "0", "2.8984592909146" 
+     .Xrange "0", "3.0313494180758" 
      .Yrange "0", "1.586" 
      .Zrange "0", "0" 
      .XrangeAdd "0.0", "0.0" 
@@ -560,6 +560,6 @@ Solver.FrequencyRange "2110", "2360"
      .ZrangeAdd "0.0", "0.0" 
      .SingleEnded "False" 
      .ConsiderForStructureBoundary "False" 
-     .ReferenceWCS "1.44922964546", "0.793", "0", "0", "0", "1", "0", "1", "0"
-(TRANSFORM) "1", "0", "0", "0", "0", "1", "0", "-1", "0"| "-1.4492296454573", "-17.208306974318", "40"(ENDTRANSFORM)
+     .ReferenceWCS "1.51567470904", "0.793", "0", "0", "0", "1", "0", "1", "0"
+(TRANSFORM) "1", "0", "0", "0", "0", "1", "0", "-1", "0"| "-1.5156747090379", "-17.945558535658", "40"(ENDTRANSFORM)
 [ENDWAVEGUIDE]

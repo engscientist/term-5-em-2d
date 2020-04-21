@@ -1,0 +1,6 @@
+Defined reference frequency for open boundary condition (2235 MHz) is larger
+than the lowest relevant system frequency (monitor at 2110 MHz).
+Please check open boundary settings to ensure accurate monitor results for the
+lowest frequency of interest.
+
+--------------------------------------------------------------------------------

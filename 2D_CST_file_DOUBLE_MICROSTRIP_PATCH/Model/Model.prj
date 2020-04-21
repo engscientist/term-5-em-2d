@@ -3,7 +3,7 @@
 [Author]
 Li
 [Mesh Cells]
-256,882
+256,237
 [Mesh Type]
 Hexahedral
 [Last Problem Type]
@@ -15,5 +15,5 @@ t
 [Results]
 Time Domain: S-Parameter
 [Modeler Unique ID]
-5:2d_cst_file_double_microstrip_patch.cst?9473c36dad8d4c4225b8e259374da209?20555:numberofparameters=20:port=1>mode=1>zre=0>zim=0?port=2>mode=1>zre=0>zim=0:::deltal?deltaw?l?w?wf?alpha?c?di?epsilon?epsilonrelative?epsilonwater?f?factorwf?h?mu?sigma?t?th?v0?wi
+5:2d_cst_file_double_microstrip_patch.cst?9473c36dad8d4c4225b8e259374da209?20555:numberofparameters=21:port=1>mode=1>zre=0>zim=0?port=2>mode=1>zre=0>zim=0:::deltal?deltaw?l?w?wf?alpha?c?di?epsilon?epsilonrelative?epsilonwater?f?factorwf?h?mu?sigma?t?testno?th?v0?wi
 [Comment]
