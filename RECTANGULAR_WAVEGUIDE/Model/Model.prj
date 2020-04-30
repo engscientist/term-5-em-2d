@@ -1,0 +1,19 @@
+[Version]
+2
+[Author]
+Li
+[Mesh Cells]
+3,927
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:rectangular_waveguide.cst?55f789c5cf3a99ab4d293947ce19b1ea?6908:numberofparameters=4:port=1>mode=1>zre=0>zim=0?port=2>mode=1>zre=0>zim=0:::a?b?l?t
+[Comment]

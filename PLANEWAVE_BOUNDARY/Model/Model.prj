@@ -1,0 +1,17 @@
+[Version]
+2
+[Author]
+Li
+[Mesh Cells]
+1,599,408
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: Plane Wave
+[Comment]

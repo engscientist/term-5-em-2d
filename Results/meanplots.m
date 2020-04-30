@@ -9,8 +9,8 @@ s12 = [];
 s21 = [];
 s22 = [];
 xlabeltext = '$f_{0}$ (in MHz)';
-ylabeltext = '$|\mu|-3\sigma$';
-myMat = abs(diffMeansMat) - 3 * sqrt(diffVarMat);
+ylabeltext = 'mean gain difference';
+myMat = abs(diffMeansMat);
 
 %% S11 LINE
 for k = 1:4:16
@@ -38,8 +38,8 @@ plot(f,s11,'-x')
 xlabel(xlabeltext,'interpreter','latex')
 ylabel(ylabeltext,'interpreter','latex')
 title('$S_{11}$','interpreter','latex')
-hold on
-plot(f,zeros(size(f)))
+% hold on
+% plot(f,zeros(size(f)))
 
 %% PLOTTING S12
 subplot(2,2,2)
@@ -47,9 +47,9 @@ plot(f,s12,'-x')
 xlabel(xlabeltext,'interpreter','latex')
 ylabel(ylabeltext,'interpreter','latex')
 title('$S_{12}$','interpreter','latex')
-hold on
-plot(f,zeros(size(f)))
-leg1 = legend('$S(c=0.140,f_{0})-S(c=0.135,f_{0})$','$S(c=0.145,f_{0})-S(c=0.140,f_{0})$','$S(c=0.150,f_{0})-S(c=0.145,f_{0})$','$y=0$ line');
+% hold on
+% plot(f,zeros(size(f)))
+leg1 = legend('$S(c=0.140,f_{0})-S(c=0.135,f_{0})$','$S(c=0.145,f_{0})-S(c=0.140,f_{0})$','$S(c=0.150,f_{0})-S(c=0.145,f_{0})$');
 set(leg1,'interpreter','latex')
 
 %% PLOTTING S21
@@ -58,8 +58,8 @@ plot(f,s21,'-x')
 xlabel(xlabeltext,'interpreter','latex')
 ylabel(ylabeltext,'interpreter','latex')
 title('$S_{21}$','interpreter','latex')
-hold on
-plot(f,zeros(size(f)))
+% hold on
+% plot(f,zeros(size(f)))
 
 %% PLOTTING S22
 subplot(2,2,4)
@@ -67,5 +67,5 @@ plot(f,s22,'-x')
 xlabel(xlabeltext,'interpreter','latex')
 ylabel(ylabeltext,'interpreter','latex')
 title('$S_{22}$','interpreter','latex')
-hold on
-plot(f,zeros(size(f)))
+% hold on
+% plot(f,zeros(size(f)))

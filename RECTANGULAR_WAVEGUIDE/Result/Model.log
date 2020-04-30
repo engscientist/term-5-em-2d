@@ -1,0 +1,341 @@
+Build version: 2016.0 Release from 2016-01-22 (change 414946)
+
+Starting adaptive port meshing.
+
+--------------------------------------------------------------------------------
+Mode calculation for port 1:
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+  ------------------------------- F-Calc 9.23 --------------------------------
+  Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+  1      1      TE          535           9.62e-006     ---           6.55
+  ----------------------------------------------------------------------------
+
+Pass 1 successfully completed. 
+Mode calculation for port 2:
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+  ------------------------------- F-Calc 9.23 --------------------------------
+  Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+  2      1      TE          535           9.62e-006     ---           6.55
+  ----------------------------------------------------------------------------
+
+Pass 1 successfully completed. 
+Adaptive port meshing finished. 
+
+--------------------------------------------------------------------------------
+
+Solver started at: 09:50 AM Friday, 24. April 2020
+
+  Module:  Time Domain: S-Parameter (Win 64)
+  Version: 2016.0 Release from 2016-01-22 (change 414946)
+
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+======================================================================
+ Solver cycle: 1
+======================================================================
+
+Stimulation at port 1 (mode 1) 
+
+
+--------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  GHz
+  Time:       s
+
+--------------------------------------------------------------------------------
+Mesh statistics:
+
+   Hexahedral mesh type: FPBA [accuracy enhancement is enabled]
+
+   Parallelization type: domain decomposition
+      Number of parallel working threads: 1
+      Number of calculation domains used: 1
+
+   Used point accuracy enhancement value: 75.00%.
+   PBA fill limit: 99.00% (inverse)
+
+
+--------------------------------------------------------------------------------
+Boundary conditions: 
+
+  YZsymmetry: none
+  XZsymmetry: none
+  XYsymmetry: none
+
+  Xmin: electric
+  Xmax: electric
+
+  Ymin: electric
+  Ymax: electric
+
+  Zmin: electric
+  Zmax: electric
+
+  PML-Type: ---
+
+--------------------------------------------------------------------------------
+Frequency settings: 
+
+  Fmin:         8.2
+  Fmax:         10.25
+  Nfsteps(lin): 1001
+
+--------------------------------------------------------------------------------
+Waveguide boundaries:
+
+Port: 1
+
+  ------------------------------- F-Calc 9.23 --------------------------------
+  Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+  1      1      TE          535           9.62e-006     ---           6.55
+  ----------------------------------------------------------------------------
+
+Port: 2
+
+  ------------------------------- F-Calc 9.23 --------------------------------
+  Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+  2      1      TE          535           9.62e-006     ---           6.55
+  ----------------------------------------------------------------------------
+
+Field update statistics:
+
+  Number of components in total: 	25936
+  Number of lossy metal components:	1516
+
+Subcycling state:      Automatically deactivated
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Steady state energy criterion met, solver finished successfully.
+
+--------------------------------------------------------------------------------
+Frequency domain results normalized to default signal.
+
+--------------------------------------------------------------------------------
+
+  ----------------------------------------------------------------------------
+                      Peak memory used (kB)         Free physical memory (kB) 
+                                                    At begin     Minimum      
+  ----------------------------------------------------------------------------
+  Matrices calc.      38060                         10500360     10465864     
+  Solver run total    32392                         10535004     10466624     
+  ----------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Solver Statistics:
+
+  Hardware:
+     Computer name:                 	LAPTOP-514GHKC2 
+
+     Number of CPU threads:             4
+     Hardware info:                  	Hardware acceleration not activated
+
+  Number of mesh cells:             	3927
+  Excitation duration:              	3.46785244e-009 s 
+  Calculation time for excitation:  	1      	s
+  Number of calculated pulse widths:	1.00857 
+  Steady state accuracy limit:      	-30	dB 
+  Simulated number of time steps:   	1520   
+  Maximum number of time steps:     	30141  
+  Time step width:
+     without subcycles:             	2.30103322e-012 s
+     used:                          	2.30103322e-012 s
+
+  Matrix calculation time:          	19     	s
+  Solver setup time:                	4      	s
+  Solver loop time:                 	1      	s
+  Solver post processing time:      	0      	s
+                                    	------------
+  Total solver time:                	24     	s
+
+--------------------------------------------------------------------------------
+======================================================================
+ TD-Solver detected a unitary device (two-port reciprocity).
+ S-parameters of the second run will be calculated from
+ the results of the first run.
+======================================================================
+
+--------------------------------------------------------------------------------
+Structure contains lossy materials or boundaries. Two-port reciprocity may
+produce inaccurate results.
+
+--------------------------------------------------------------------------------
+
+  Adaptive port meshing time:       	16     	s
+  Total solver time (all cycles):   	26     	s
+                                    	------------
+  Total simulation time:            	42     	s
+
+--------------------------------------------------------------------------------
+Solver finished at: 09:51 AM Friday, 24. April 2020
+
+
+--------------------------------------------------------------------------------
+Creating parametric 1D results for Run ID 1
+
+--------------------------------------------------------------------------------
+Adaptation results were found. Adaptive port meshing skipped.
+
+--------------------------------------------------------------------------------
+
+Solver started at: 10:02 AM Friday, 24. April 2020
+
+  Module:  Time Domain: S-Parameter (Win 64)
+  Version: 2016.0 Release from 2016-01-22 (change 414946)
+
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+======================================================================
+ Solver cycle: 1
+======================================================================
+
+Stimulation at port 1 (mode 1) 
+
+
+--------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  GHz
+  Time:       s
+
+--------------------------------------------------------------------------------
+Boundary conditions: 
+
+  YZsymmetry: none
+  XZsymmetry: none
+  XYsymmetry: none
+
+  Xmin: electric
+  Xmax: electric
+
+  Ymin: electric
+  Ymax: electric
+
+  Zmin: electric
+  Zmax: electric
+
+  PML-Type: ---
+
+--------------------------------------------------------------------------------
+Frequency settings: 
+
+  Fmin:         8.2
+  Fmax:         10.25
+  Nfsteps(lin): 1001
+
+--------------------------------------------------------------------------------
+Waveguide boundaries:
+
+Port: 1
+
+Reloaded mode(s) for port 1.
+
+--------------------------------------------------------------------------------
+Port: 2
+
+Reloaded mode(s) for port 2.
+
+--------------------------------------------------------------------------------
+Field update statistics:
+
+  Number of components in total: 	25936
+  Number of lossy metal components:	1516
+
+Subcycling state:      Automatically deactivated
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Steady state energy criterion met, solver finished successfully.
+
+--------------------------------------------------------------------------------
+Frequency domain results normalized to default signal.
+
+--------------------------------------------------------------------------------
+
+  ----------------------------------------------------------------------------
+                      Peak memory used (kB)         Free physical memory (kB) 
+                                                    At begin     Minimum      
+  ----------------------------------------------------------------------------
+  Matrices calc.      38060                         10500360     10465864     
+  Solver run total    133920                        10941800     10826856     
+  ----------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Solver Statistics:
+
+  Hardware:
+     Computer name:                 	LAPTOP-514GHKC2 
+
+     Number of CPU threads:             4
+     Hardware info:                  	Hardware acceleration not activated
+
+  Number of mesh cells:             	3927
+  Excitation duration:              	3.46785244e-009 s 
+  Calculation time for excitation:  	0      	s
+  Number of calculated pulse widths:	1.00857 
+  Steady state accuracy limit:      	-30	dB 
+  Simulated number of time steps:   	1520   
+  Maximum number of time steps:     	30141  
+  Time step width:
+     without subcycles:             	2.30103322e-012 s
+     used:                          	2.30103322e-012 s
+
+  Reloading matrices:               	0      	s
+  Solver setup time:                	3      	s
+  Solver loop time:                 	0      	s
+  Solver post processing time:      	1      	s
+                                    	------------
+  Total solver time:                	4      	s
+
+--------------------------------------------------------------------------------
+======================================================================
+ TD-Solver detected a unitary device (two-port reciprocity).
+ S-parameters of the second run will be calculated from
+ the results of the first run.
+======================================================================
+
+--------------------------------------------------------------------------------
+Any monitor or probe results are not considered by two-port reciprocity.
+
+--------------------------------------------------------------------------------
+Structure contains lossy materials or boundaries. Two-port reciprocity may
+produce inaccurate results.
+
+--------------------------------------------------------------------------------
+
+  Adaptive port meshing time:       	0      	s
+  Total solver time (all cycles):   	5      	s
+                                    	------------
+  Total simulation time:            	5      	s
+
+--------------------------------------------------------------------------------
+Solver finished at: 10:02 AM Friday, 24. April 2020
+
+
+--------------------------------------------------------------------------------
+Creating parametric 1D results for Run ID 1
+
+--------------------------------------------------------------------------------

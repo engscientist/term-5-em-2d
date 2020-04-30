@@ -1,0 +1,136 @@
+Defined reference frequency for open boundary condition (5.5 GHz) is larger
+than the lowest relevant system frequency (monitor at 1 GHz).
+Please check open boundary settings to ensure accurate monitor results for the
+lowest frequency of interest.
+
+--------------------------------------------------------------------------------
+
+Solver started at: 09:33 AM Friday, 24. April 2020
+
+  Module:  Time Domain: Plane Wave (Win 64)
+  Version: 2016.0 Release from 2016-01-22 (change 414946)
+
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+======================================================================
+ Plane wave stimulation
+======================================================================
+
+
+--------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  GHz
+  Time:       ns
+
+--------------------------------------------------------------------------------
+Mesh statistics:
+
+   Hexahedral mesh type: FPBA [accuracy enhancement is enabled]
+
+   Parallelization type: domain decomposition
+      Number of parallel working threads: 4
+      Number of calculation domains used: 8
+
+   PBA fill limit: 85.00% (inverse)
+
+
+--------------------------------------------------------------------------------
+Boundary conditions: 
+
+  YZsymmetry: none
+  XZsymmetry: none
+  XYsymmetry: none
+
+  Xmin: expanded open, 4 Layer, depth 7.78682 mm
+  Xmax: expanded open, 4 Layer, depth 7.78682 mm
+
+  Ymin: expanded open, 4 Layer, depth 7.78682 mm
+  Ymax: expanded open, 4 Layer, depth 7.78682 mm
+
+  Zmin: expanded open, 4 Layer, depth 7.78682 mm
+  Zmax: expanded open, 4 Layer, depth 7.78682 mm
+
+  PML-Type: Convolution PML
+
+--------------------------------------------------------------------------------
+Frequency settings: 
+
+  Fmin:         1
+  Fmax:         10
+  Nfsteps(lin): 1001
+
+--------------------------------------------------------------------------------
+Field update statistics:
+
+  Number of components in total: 	9896859
+
+Subcycling state:      Automatically deactivated
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Steady state energy criterion met, solver finished successfully.
+
+--------------------------------------------------------------------------------
+Frequency domain results normalized to default signal.
+
+--------------------------------------------------------------------------------
+
+  ----------------------------------------------------------------------------
+                      Peak memory used (kB)         Free physical memory (kB) 
+                                                    At begin     Minimum      
+  ----------------------------------------------------------------------------
+  CAD preparation     18048                         10546888     10546888     
+  Matrices calc.      523068                        10507784     9920416      
+  Solver run total    611012                        10568156     9707660      
+  ----------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Solver Statistics:
+
+  Hardware:
+     Computer name:                 	LAPTOP-514GHKC2 
+
+     Number of CPU threads:             4
+     Hardware info:                  	Hardware acceleration not activated
+
+  Number of mesh cells:             	1599408
+  Excitation duration:              	7.89899722e-001 ns 
+  Calculation time for excitation:  	10     	s
+  Number of calculated pulse widths:	3.68867 
+  Steady state accuracy limit:      	-30	dB 
+  Simulated number of time steps:   	1050   
+  Maximum number of time steps:     	5693   
+  Time step width:
+     without subcycles:             	2.77493595e-003 ns
+     used:                          	2.77493595e-003 ns
+
+  CAD preparation time:          	1      	s
+  Matrix calculation time:          	46     	s
+  Solver setup time:                	6      	s
+  Solver loop time:                 	40     	s
+  Solver post processing time:      	1      	s
+                                    	------------
+  Total solver time:                	94     	s  ( = 0 h, 1 m, 34 s )
+
+--------------------------------------------------------------------------------
+
+  Adaptive port meshing time:       	0      	s
+  Total solver time (all cycles):   	95     	s  ( = 0 h, 1 m, 35 s )
+                                    	------------
+  Total simulation time:            	95     	s  ( = 0 h, 1 m, 35 s )
+
+--------------------------------------------------------------------------------
+Solver finished at: 09:35 AM Friday, 24. April 2020
+
+
+--------------------------------------------------------------------------------
+Creating parametric 1D results for Run ID 1
+
+--------------------------------------------------------------------------------
