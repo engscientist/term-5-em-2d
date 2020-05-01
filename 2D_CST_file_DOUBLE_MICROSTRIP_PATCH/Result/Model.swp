@@ -9,7 +9,7 @@ Parameter Values:
 
 Structure update: Successful
           Solver: Successful
-     Solver time: 0 hours, 11 min., 54 sec.
+     Solver time: 0 hours, 19 min., 38 sec.
 --------------------------------------------------------------------------
 Parameter Values: 
 
@@ -17,25 +17,17 @@ Parameter Values:
 
 Structure update: Successful
           Solver: Successful
-     Solver time: 0 hours, 13 min., 24 sec.
+     Solver time: 0 hours, 10 min., 1 sec.
 --------------------------------------------------------------------------
 Parameter Values: 
 
    c = 0.145
 
 Structure update: Successful
-          Solver: Successful
-     Solver time: 0 hours, 11 min., 25 sec.
---------------------------------------------------------------------------
-Parameter Values: 
-
-   c = 0.15
-
-Structure update: Successful
-          Solver: Successful
-     Solver time: 0 hours, 12 min., 28 sec.
+          Solver: Aborted
+     Solver time: 0 hours, 6 min., 24 sec.
 --------------------------------------------------------------------------
 
 ==========================================================================
-Total solver time: 0 hours, 49 min., 11 sec.
+Total solver time: 0 hours, 36 min., 3 sec.
 ==========================================================================

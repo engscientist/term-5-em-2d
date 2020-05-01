@@ -10,7 +10,7 @@ s21 = [];
 s22 = [];
 xlabeltext = '$f_{0}$ (in MHz)';
 ylabeltext = 'mean gain difference';
-myMat = abs(diffMeansMat);
+myMat = abs(diffMeansMat) - 3 * sqrt(diffVarMat);
 
 %% S11 LINE
 for k = 1:4:20
